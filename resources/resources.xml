@@ -1,0 +1,9 @@
+<resources>
+  <font id="HenkSinger_90px" filename="fonts/HenkSinger_90px.fnt" antialias="true"/>
+  <font id="HenkSinger_80px" filename="fonts/HenkSinger_80px.fnt" antialias="true"/>
+  <font id="HenkSinger_22px" filename="fonts/HenkSinger_22px.fnt" antialias="true"/>
+  <font id="HenkSinger_24px" filename="fonts/HenkSinger_24px.fnt" antialias="true"/>
+  <font id="HenkSinger_20px" filename="fonts/HenkSinger_20px.fnt" antialias="true"/>
+  
+  <font id="WildWestIcons_42px" filename="fonts/WildWestIcons_42px.fnt" antialias="true"/>
+</resources>

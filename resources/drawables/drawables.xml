@@ -1,0 +1,9 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <bitmap id="bootsprint_0" filename="bootsprint_0.png" />
+    <bitmap id="heart_0" filename="heart_0.png" />
+    <bitmap id="battery_0" filename="battery_0.png" />
+    <bitmap id="steps_blue" filename="steps_blue.png" />
+    <bitmap id="calories_blue" filename="calories_blue.png" />
+    <bitmap id="active_blue" filename="active_blue.png" />
+</drawables>
